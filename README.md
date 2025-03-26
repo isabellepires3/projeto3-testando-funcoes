@@ -1,1 +1,1 @@
-# projeto3-testando-funcoes
+# qualidade-e-testes-de-software-projeto3-testando-funcoes
